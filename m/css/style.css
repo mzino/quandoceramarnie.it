@@ -186,35 +186,35 @@ footer {
 #bg-bluray,
 #bg-personaggi,
 #bg-credits {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/generico.png");
 	background-size: cover;
 }
 #bg-storico01 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/sociale.png");
 	background-size: cover;
 }
 #bg-politico {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/familiare.png");
 	background-size: cover;
 }
 #bg-miyazaki01,
 #bg-miyazaki02,
 #bg-miyazaki03 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/yonebayashi.png");
 	background-size: cover;
 }
 #bg-critica01,
 #bg-critica02 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/critica.png");
 	background-size: cover;
 }
 #bg-soundtrack {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/soundtrack.jpg");
 	background-size: cover;
 }
@@ -458,7 +458,7 @@ NAVIGATION BUTTON
 	width: 7.813rem;
 }
 .navmenu {
-	background-color: #109ceb;
+	background-color: #036599;
 	overflow: hidden;
 	position: absolute;
 	-webkit-transform: translate3d(-100%, 0, 0);

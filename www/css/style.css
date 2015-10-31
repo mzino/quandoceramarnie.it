@@ -206,7 +206,7 @@ footer {
 #bg-bluray,
 #bg-personaggi,
 #bg-credits {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/generico.png"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/generico.png"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/generico.png"); /* Chrome 10+, Saf5.1+ */
@@ -217,7 +217,7 @@ footer {
 	background-size: cover;
 }
 #bg-storico01 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/sociale.png"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/sociale.png"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/sociale.png"); /* Chrome 10+, Saf5.1+ */
@@ -228,7 +228,7 @@ footer {
 	background-size: cover;
 }
 #bg-politico {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/familiare.png"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/familiare.png"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/familiare.png"); /* Chrome 10+, Saf5.1+ */
@@ -241,7 +241,7 @@ footer {
 #bg-miyazaki01,
 #bg-miyazaki02,
 #bg-miyazaki03 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/yonebayashi.png"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/yonebayashi.png"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/yonebayashi.png"); /* Chrome 10+, Saf5.1+ */
@@ -253,7 +253,7 @@ footer {
 }
 #bg-critica01,
 #bg-critica02 {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/critica.png"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/critica.png"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/critica.png"); /* Chrome 10+, Saf5.1+ */
@@ -264,7 +264,7 @@ footer {
 	background-size: cover;
 }
 #bg-soundtrack {
-	background: #109ceb; /* fallback */
+	background: #036599; /* fallback */
 	background: url("../../assets/bg/soundtrack.jpg"); /* fallback */
 	background: -webkit-gradient(linear, left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/soundtrack.jpg"); /* Saf4+, Chrome */
 	background:  -webkit-linear-gradient(left, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 50%, rgba(255,255,255,1) 100%), url("../../assets/bg/soundtrack.jpg"); /* Chrome 10+, Saf5.1+ */
@@ -279,35 +279,35 @@ footer {
 	#bg-bluray,
 	#bg-personaggi,
 	#bg-credits {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/generico.png");
 		background-size: cover;
 	}
 	#bg-storico01 {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/sociale.png");
 		background-size: cover;
 	}
 	#bg-politico {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/familiare.png");
 		background-size: cover;
 	}
 	#bg-miyazaki01,
 	#bg-miyazaki02,
 	#bg-miyazaki03 {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/yonebayashi.png");
 		background-size: cover;
 	}
 	#bg-critica01,
 	#bg-critica02 {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/critica.png");
 		background-size: cover;
 	}
 	#bg-soundtrack {
-		background: #109ceb; /* fallback */
+		background: #036599; /* fallback */
 		background: url("../../assets/bg/soundtrack.jpg");
 		background-size: cover;
 	}
@@ -576,7 +576,7 @@ NAVIGATION BUTTON
 		display: block;
 	}
 	.navmenu {
-		background-color: #109ceb;
+		background-color: #036599;
 		overflow: hidden;
 		position: absolute;
 		-webkit-transform: translate3d(-100%, 0, 0);
